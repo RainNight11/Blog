@@ -179,10 +179,12 @@
   },
   "active": "3bbfb96520893942",
   "lastOpenFiles": [
-    "Git/2.png",
+    "Git/github.png",
+    "Git/Git使用.md",
+    "Git/pub.png",
+    "Git/ssh.png",
     "Git/1.png",
     "WSL/WSL配置AI环境.md",
-    "Git/Git使用.md",
     "Git",
     "Pasted image 20250111200300.png",
     "WSL/conda.png",
@@ -191,9 +193,6 @@
     "图片1URL或路径.md",
     "WSL/cudnn3.png",
     "WSL/cudnn2.png",
-    "WSL/cudnn.png",
-    "WSL/nvcc.png",
-    "WSL/cudatoolkit3.png",
     "WSL"
   ]
 }
