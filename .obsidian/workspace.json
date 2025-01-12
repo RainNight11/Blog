@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "dfb2aed7e9a25fd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "81dd8cf3fe880ea6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee2da57b21f719e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WSL/WSL配置AI环境.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WSL配置AI环境"
+            }
+          },
+          {
+            "id": "3bbfb96520893942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git使用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git使用"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0246d4b2859819d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "196e65f5b39ff4b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bba65bd1ac77dba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "bc2ea0c984820276",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "111dcf50caa043bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a51b3f09e57f8c4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8bf0f63ced4a08c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6abbc296e0ebb235",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WSL配置AI环境.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "WSL配置AI环境 的反向链接列表"
+            }
+          },
+          {
+            "id": "01283bb710372805",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WSL配置AI环境.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "WSL配置AI环境 的出链列表"
+            }
+          },
+          {
+            "id": "aaaaf3bc5b16b36a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9ca4a7efc516db23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WSL配置AI环境.md"
+              },
+              "icon": "lucide-list",
+              "title": "WSL配置AI环境 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3bbfb96520893942",
+  "lastOpenFiles": [
+    "Git/2.png",
+    "Git/1.png",
+    "WSL/WSL配置AI环境.md",
+    "Git/Git使用.md",
+    "Git",
+    "Pasted image 20250111200300.png",
+    "WSL/conda.png",
+    "WSL/cudnn4.png",
+    "Pasted image 20250111191938.png",
+    "图片1URL或路径.md",
+    "WSL/cudnn3.png",
+    "WSL/cudnn2.png",
+    "WSL/cudnn.png",
+    "WSL/nvcc.png",
+    "WSL/cudatoolkit3.png",
+    "WSL"
+  ]
+}
